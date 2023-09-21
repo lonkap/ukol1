@@ -252,11 +252,11 @@ p
               background-color:#d2f8d2;
             }
             .active
- {
-    background-color: white; margin:-5px;
-    }
+            {
+                background-color: white; margin:-5px;
+            }
         }
 em 
 {
     color:dimgray;
-}
+    }
