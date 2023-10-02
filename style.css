@@ -253,12 +253,11 @@ p
             .menu a:hover,
             .menu a:focus,
             .menu a:active  {
-              background-color:#d2f8d2;
+              background-color:#d2f8d2; 
             }
             .active
             {
-                background-color: white; margin:-5px;
-            }
+                background-color: white;             }
         }
 em 
 {
