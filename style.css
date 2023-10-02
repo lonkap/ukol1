@@ -89,18 +89,20 @@ nav li
 a
 {
     text-decoration: none; 
-    color:navy;
+    color:black;
+    font-weight: bold;
     }
 
     a:hover
     {
-        color:dodgerblue;
+        color:white;
     }
            
 li a {
         display: block;
         width: 100px;
       }
+
 
  .button
 {
@@ -109,15 +111,16 @@ li a {
     
     }
 
+
  .active
  {
     background-color: #d2f8d2; margin:-5px;
     }
     
      
-    .button:hover 
+    .button:hover
     {
-        background-color: lightgray;
+        background-color: black;
         }  
 
 .col1
@@ -180,6 +183,7 @@ p
 {
     text-align: center;
     font-family: 'Playfair Display', serif;
+    
     }
 
 .mista_pobytu img
@@ -260,3 +264,13 @@ em
 {
     color:dimgray;
     }
+    
+   .kontakt a:hover
+   {
+    background-color: black;
+    color:white ;
+   }
+  .mezera
+  {
+    padding: 20px 30px;
+  }
